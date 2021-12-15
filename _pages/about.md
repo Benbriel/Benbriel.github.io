@@ -10,7 +10,10 @@ redirect_from:
 
 Test title.
 ======
-This is my website. It's a [test](https://es.wikipedia.org/wiki/Test).
+This is my website. It's a [test](https://es.wikipedia.org/wiki/Test). One can even write in $\Latex$! For example,
+\\[\begin{equation} \label{test} a^2 = b^2 + c^2 \end{equation}\\]
+Equations can even be referenced, like \eqref{test}.
+\\[\begin{equation} \label{test} \frac{\mathrm{d}}{\mathrm{d} x} \int_{a}^{x} f(s)ds = f(x) \end{equation}\\]
 
 A data-driven personal website
 ======
