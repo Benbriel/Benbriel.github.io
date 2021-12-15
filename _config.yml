@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benbriel / Site Title"
+title                    : "Benbriel | Blog"
 title_separator          : "-"
 name                     : &name "Benjamín Briceño"
-description              : &description "Página personal."
+description              : &description "Personal Website."
 url                      : https://Benbriel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Benbriel/Benbriel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Benjamín Briceño"
   avatar           : "profile.png"
-  bio              : "Estudiante del Departamento de Física de la Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile"
+  bio              : "Student at Departamento de Física, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile."
   location         : "Chile"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "Benbriel"
 
 
 # Reading Files
