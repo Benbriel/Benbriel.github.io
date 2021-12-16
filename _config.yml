@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benbriel | Blog"
+title                    : "Benjamín Briceño"
 title_separator          : "-"
 name                     : &name "Benjamín Briceño"
 description              : &description "Personal Website."
@@ -57,12 +57,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@Bbricenoel"
+  username               : &twitter "Bbricenoel"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : profile.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -85,7 +85,7 @@ author:
   bio              : "Student at Departamento de Física, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile."
   location         : "Chile"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "benbriel4@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "benjamin-briceno"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
