@@ -10,4 +10,4 @@ citation: 'Briceño, B. (2021). "Text." <i>Github</i>. 1(1).'
 ---
 This report is an example of good reports.
 
-[Download paper here](http://Benbriel.github.io/files/informe1.pdf)
+[Download](http://Benbriel.github.io/files/informe1.pdf){: .btn--research}
