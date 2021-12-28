@@ -10,7 +10,7 @@ author_profile: true
 
 These are some example reports that I have written.
 
-Métodos Numericos para la Ingeniería y Ciencias (CD-algo)
+Métodos Numéricos para la Ingeniería y Ciencias (FI3104)
 ======
 
 {% if author.googlescholar %}
