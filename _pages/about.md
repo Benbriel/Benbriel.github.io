@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This website is under development. It's supposed to be a personal repository, which I'll be using for academic/blog/notes purposes.
-
-```r
-(1 + .75) / 2
-```
+I'm a Physics undergraduate who just learned how to create a public website. It's still under development, and it'll probably take a while to make something useful out of this. I'm trying to make it a personal repository, which I'll be using for academic/blog/notes purposes. Maybe I'll post some code too.
 
 For more info
 ------
