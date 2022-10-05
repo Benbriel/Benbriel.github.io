@@ -31,7 +31,7 @@ Now, one could use the Hamilton equations of motion to solve for the position an
 
 $$ \frac{\left( \partial_q S \right)^2}{2 m} + V(q) + \partial_t S = 0 $$
 
-This equation is generally hard to solve. However, identifying cyclic coordinates, or the direct coordinate independence of $H$. In this case, $\partial_t H=0$. This lets one choose an action $S=W(q) - E t$, where in this case $E$ corresponds to the total energy of the particle. Replacing this new $S$,
+This equation is generally hard to solve. However, identifying cyclic coordinates, or continuous symmetries of the Hamiltonian, one can simplify the problem. In this case, $\partial_t H=0$. This lets one choose an action $S=W(q) - E t$, where in this case $E$ corresponds to the total energy of the particle. Replacing this new $S$,
 
 $$ \frac{W'^2}{2 m} + V(q) = E \Rightarrow W(q) = \int \sqrt{2 m (E - V(q))} dq $$
 
@@ -39,7 +39,7 @@ Then, having solved for $S$, the chosen canonical transformations result in $\pa
 
 $$ \beta = -t + \int \frac{dq}{\sqrt{\frac{2}{m} \left( E - V(q) \right)}} $$
 
-Replacing $V(q)$ for a specific potential does not assure that one can write $q$ as $q(t)$ but t(q), however, for most simple cases, the integral can be solved, and the solution $q(t)$ is found.
+Replacing $V(q)$ for a specific potential does not assure that one can write $q$ as $q(t)$, however, for most simple cases, the integral can be solved, and the solution $q(t)$ is found.
 
 For example, a harmonic oscillator has a potential that can be written as $V(q)=\frac{k}{2}q^2$, where $k$ is a constant. Replacing on the above equation and solving the integral, one gets
 
