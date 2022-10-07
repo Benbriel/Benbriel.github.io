@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "benbriel4@gmail.com"
+  email            : "benjamin.briceno@ug.uchile.cl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -251,6 +251,14 @@ defaults:
   - scope:
       path: ""
       type: reports
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
     values:
       layout: single
       author_profile: true
