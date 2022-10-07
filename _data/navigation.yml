@@ -24,5 +24,8 @@ main:
   - title: "Reports"
     url: /reports/
 
+  - title: "Notes"
+  url: /notes/
+
   - title: "Interactive"
     url: /test/

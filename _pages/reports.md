@@ -3,9 +3,6 @@ layout: archive
 title: "Reports"
 permalink: /reports/
 author_profile: true
-#redirect_from: 
-#  - "/informes/"
-#  - "/reports.html"
 ---
 
 These are some example reports that I have written.
