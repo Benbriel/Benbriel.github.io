@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Benjamín Briceño"
 title_separator          : "-"
 name                     : &name "Benjamín Briceño"
-description              : &description "Personal Website."
+description              : &description "Physics Undergraduate at Universidad de Chile"
 url                      : https://Benbriel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Benbriel/Benbriel.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "benjamin.briceno@ug.uchile.cl"
+  email            : "benjaminbriceno@ug.uchile.cl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/15396346/benbriel"
   steam            :
   tumblr           :
   twitter          : "Bbricenoel"
@@ -247,22 +247,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _reports
-  - scope:
-      path: ""
-      type: reports
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _notes
-  - scope:
-      path: ""
-      type: notes
-    values:
-      layout: single
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:

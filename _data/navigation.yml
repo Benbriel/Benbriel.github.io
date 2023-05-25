@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Notes"    # Used to be "Blog Posts"
+    url: /notes/      # Used to be /year-archive/
     
   - title: "CV"
     url: /cv/
@@ -23,9 +23,6 @@ main:
 
   - title: "Reports"
     url: /reports/
-
-  - title: "Notes"
-    url: /notes/
 
   - title: "Interactive"
     url: /test/
