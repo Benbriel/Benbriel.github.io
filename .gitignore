@@ -1,4 +1,5 @@
 _site/
+files/
 
 ## Para trabajar con Python y Latex
 *.DS_Store
