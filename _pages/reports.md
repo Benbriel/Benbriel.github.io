@@ -7,7 +7,7 @@ author_profile: true
 
 These are some example reports that I have written.
 
-Métodos Numéricos para la Ingeniería y Ciencias (FI3104)
+Heading
 ======
 
 {% if author.googlescholar %}
@@ -19,7 +19,3 @@ Métodos Numéricos para la Ingeniería y Ciencias (FI3104)
 {% for post in site.reports reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-
-Heading 2
-======
