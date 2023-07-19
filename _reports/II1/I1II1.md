@@ -1,5 +1,5 @@
 ---
-title: "Period of Pendulum"
+title: "Photorresponse of encapsulated g-FET transistors"
 collection: reports
 permalink: /report/I1II1
 excerpt: 'This report is an example of good reports.'
