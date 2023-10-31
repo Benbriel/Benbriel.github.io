@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Benjamín Briceño"
   avatar           : "images/profile.png"
-  bio              : "Student at Departamento de Física, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile."
-  location         : "Chile"
-  email            : "benjaminbriceno@ug.uchile.cl"
+  bio              : "Student at Institut für Physik, Mathematisch-Naturwissenschaftlich-Technische Fakultät, Universität Augsburg."
+  location         : "Augsburg, Germany"
+  email            : "benjamin.briceno.bb@gmail.com"
   links:
     - label: "Email"
       icon: "fa-solid fa-envelope"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/s"
+      # url: "https://facebook.com/s"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Benbriel"
@@ -245,6 +245,10 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+
+# Octopress
+post_ext: md
+permalink: /posts/:year/:month/:title/
 
 # Archives
 #  Type
