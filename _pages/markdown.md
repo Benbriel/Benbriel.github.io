@@ -2,6 +2,8 @@
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
+toc: true
+classes: default
 redirect_from: 
   - /md/
   - /markdown.html
@@ -20,7 +22,7 @@ redirect_from:
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): assets/images/profile.png
 
 ## Tips and hints
 

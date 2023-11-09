@@ -1,21 +1,14 @@
 ---
-layout: archive
 title: "Reports"
 permalink: /reports/
-author_profile: true
+collection: reports
+layout: collection
+# sort_order: reverse
 ---
 
-These are some example reports that I have written.
+These are some reports that I have written for my University courses.
 
-Heading
-======
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-{% include base_path %}
-
-{% for post in site.reports reversed %}
-  {% include archive-single.html %}
-{% endfor %}

@@ -1,7 +1,7 @@
 ---
 title: 'Testing Latex'
 date: 2021-12-16
-permalink: /posts/2021/12/testing-latex/
+excerpt: "This post tests the usage of LaTeX on this website."
 tags:
   - Latex
   - electrodynamics

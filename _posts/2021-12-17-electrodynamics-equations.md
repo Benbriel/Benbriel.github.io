@@ -1,12 +1,12 @@
 ---
 title: 'Important equations in Electrodynamics'
 date: 2021-12-17
-permalink: /posts/2021/12/electrodynamics-equations/
+excerpt: "These are some important equations for a course on Electrodynamics."
 tags:
   - Electrodynamics
 ---
 
-These are some important equations for a course on Electrodynamics. First, we start with Maxwell's equations
+First, we start with Maxwell's equations
 
 \\[\nabla \cdot \mathbf {E} ={\frac {\rho }{\varepsilon _0}}\\]
 
@@ -18,4 +18,3 @@ These are some important equations for a course on Electrodynamics. First, we st
 
 We then define the four-gradient as $ \partial ^{\nu }={\frac {\partial }{\partial x_{\nu }}}=\left({\frac {1}{c}}{\frac {\partial }{\partial t}},-\mathbf {\nabla } \right)$, and the d'Alembertian as $\partial ^{2}={\frac {1}{c^{2}}}{\partial^2 \over \partial^2 t}-\nabla ^{2}$. 
 
--WIP

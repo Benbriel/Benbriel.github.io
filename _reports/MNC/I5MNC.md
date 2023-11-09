@@ -1,15 +1,14 @@
 ---
 title: "Reaction-Diffusion Equations"
 collection: reports
-permalink: /report/I5MNC
 excerpt: 'This report is an example of good reports.'
 date: 2021-12-15
 venue: 'Github'
 paperurl: '/files/MNC/I5MNC.pdf'
-link: /report/I5MNC
+# link: /report/I5MNC
 github: 'https://github.com/benbriel/'
 citation: ''
 ---
 This report is an example of good reports.
 
-[Download](/files/MNC/I5MNC.pdf){: .btn--research}
+[Download]({{ page.paperurl }}){: .btn--research}
